@@ -19,6 +19,7 @@ Pictured below is an image of the top five schools
 Despite replacing the math and reading scores for Thomas High school ninth graders, there was no significant change to the data. 
 
 Conclusion
+
 The main difference in the original dataset for PyCitySchools and PyCitySchools Challenge is that the Math and Reading scores for the ninth graders from Thomas High School were replaced by NaN. The scores by school type remained the same and the scores by school spending data were similar as well. 
 
 
